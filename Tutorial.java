@@ -177,7 +177,7 @@ public class Tutorial {
     // convert a string to an integer
     public static int convertToInt(String a) {
         // write your code here
-        return Integer.parseInt(a);
+        return 0;
     }
 
     // calculate the length of a string
